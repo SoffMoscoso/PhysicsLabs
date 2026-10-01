@@ -5,3 +5,5 @@ This is a repository to store all my Laboratorys Physics projects, homeworks, ex
 - Advanced laboratory I, II, III (Just this are going to be here)
 
 If you want to know more about the Physics curriculum at UdeA, visit: Physics curriculum at UdeA.
+
+Special thanks to Cristian Camilo Vergara(cristian.vergara1@udea.edu.o), Juan Jose Palacio (juan.palacio10@udea.edu.co) Francisco Luligo (francisco.gonzalezl@udea.edu.co), for beign part of my experimental physics courses, for beign my team and learn together.
